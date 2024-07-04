@@ -1,20 +1,12 @@
 {
-    "name": "pxt-fwd-edu",
-    "version": "1.28.2",
-    "description": "Forward Education (FWD EDU) Climate Action Kit Gen. 2",
+    "name": "fwd-tutorials",
+    "version": "0.1.0",
+    "description": "Forward Education MakeCode Tutorials",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
-        "fwd-edu-common": "github:climate-action-kits/pxt-fwd-edu/fwd-common",
-        "fwd-edu-breakout": "github:climate-action-kits/pxt-fwd-edu/fwd-breakout",
-        "fwd-edu-dial": "github:climate-action-kits/pxt-fwd-edu/fwd-dial",
-        "fwd-edu-led": "github:climate-action-kits/pxt-fwd-edu/fwd-led",
-        "fwd-edu-line": "github:climate-action-kits/pxt-fwd-edu/fwd-line",
-        "fwd-edu-moisture": "github:climate-action-kits/pxt-fwd-edu/fwd-moisture",
-        "fwd-edu-solar": "github:climate-action-kits/pxt-fwd-edu/fwd-solar",
-        "fwd-edu-sonar": "github:climate-action-kits/pxt-fwd-edu/fwd-sonar",
-        "fwd-edu-touch": "github:climate-action-kits/pxt-fwd-edu/fwd-touch"
+        "jacdac": "github:microsoft/pxt-jacdac",
+        "fwd-edu": "github:climate-action-kits/pxt-fwd-edu"
     },
     "files": [
         "README.md",
@@ -101,9 +93,7 @@
         "windenergy.md",
         "windtrial.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [ ],
     "public": true,
     "supportedTargets": [
         "microbit"
