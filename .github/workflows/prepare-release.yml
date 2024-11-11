@@ -1,0 +1,47 @@
+---
+name: "Create Release"
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update_pxt-json:
+    name: "Update the pxt.json file list"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Diff file list
+        id: md_diff
+        run: >
+          diff_result="$( diff -q
+          <(jq -r '.files[] | select(. | match(".md"))' pxt.json | sort)
+          <(find .  -name '*.md' | sed 's_^./__' | sort)
+          | wc -l )";
+          echo "diff_result=$diff_result" >> "$GITHUB_OUTPUT";
+
+      - name: Update pxt.json file list
+        id: pxtjson_patch
+        if: ${{ steps.md_diff.outputs.diff_files == 1 }}
+        run: |
+          SYNC_FILES=`find . -name '*.md' | sort | sed -e 's_^./\(.*\)_"\1"_' | paste -sd ',' -`
+          UPDATED_JSON=`jq ".files |= [$SYNC_FILES]" pxt.json`
+          echo $UPDATED_JSON > pxt.json
+
+      - name: Bump version
+        id: pxtjson_bump
+        run: |
+          SEM_VER=(`jq -r '.version' pxt.json | sed 's/\./ /g'`)
+          BUMP_INDEX=$(( ${{ steps.md_diff.outputs.diff_files }} + 1 ))
+          SEM_VER[$BUMP_INDEX]=$(( SEM_VER[$BUMP_INDEX] + 1 ))
+          VER_STRING=\"`echo ${SEM_VER[@]} | sed 's/ /./g'`\"
+          UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
+          echo $UPDATED_JSON > pxt.json
+
+
