@@ -44,4 +44,11 @@ jobs:
           UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
           echo $UPDATED_JSON > pxt.json
 
+      - name: Commit changes
+        run: |
+          git config --global user.name "pxt-bot"
+          git config --global user.email "tech@forwardedu.com"
 
+          git add -A
+          git commit -m "v$(jq '.version' pxt.json)"
+          git push
