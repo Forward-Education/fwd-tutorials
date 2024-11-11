@@ -50,5 +50,5 @@ jobs:
           git config --global user.email "tech@forwardedu.com"
 
           git add -A
-          git commit -m "v$(jq '.version' pxt.json)"
+          git commit -m "v$(jq -r '.version' pxt.json)"
           git push
