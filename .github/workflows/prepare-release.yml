@@ -23,11 +23,11 @@ jobs:
       - name: Diff file list
         id: md_diff
         run: >
-          diff_result="$( diff -q
+          DIFF_RESULT="$( diff -q
           <(jq -r '.files[] | select(. | match(".md"))' pxt.json | sort)
           <(find .  -name '*.md' | sed 's_^./__' | sort)
           | wc -l )";
-          echo "diff_result=$diff_result" >> "$GITHUB_OUTPUT";
+          echo "diff_result=$DIFF_RESULT" >> "$GITHUB_OUTPUT";
 
       - name: Update pxt.json file list
         id: pxtjson_patch
@@ -45,7 +45,11 @@ jobs:
           SEM_VER[$BUMP_INDEX]=$(( SEM_VER[$BUMP_INDEX] + 1 ))
           VER_STRING=\"`echo ${SEM_VER[@]} | sed 's/ /./g'`\"
           UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
+          echo "ver_string=$VER_STRING" >> "$GITHUB_OUTPUT"
           echo $UPDATED_JSON > pxt.json
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          tagging_message: "v${{ steps.pxtjson_bump.outputs.ver_string}}"
+
