@@ -42,45 +42,45 @@ Let's build a smart hydroponic farming system! We are going to do this in 3 part
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-projectrender.webp" alt="Full smart farm render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs01.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs01.webp)
 
 ## Build Step 2 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs02.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs02.webp)
 
 ## Build Step 3 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs03.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs03.webp)
 
 ## Build Step 4 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs04.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs04.webp)
 
 ## Build Step 5 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs05.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs05.webp)
 
 ## Build Step 6 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs06.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs06.webp)
 
 ## Build Step 7 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs07.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs07.webp)
 
 ## Build Step 8 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs08.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs08.webp)
 
 ## Build Step 9 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs09.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs09.webp)
 
 *Note: For now, you may place the moisture sensor in an empty cup.*
 
 ## Build Step 10 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs10.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs10.webp)
 
 ## Build Step 11 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs11.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs11.webp)
 
 ## Build Step 12 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs12.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs12.webp)
 
 ## Build Step 13 @showdialog
-![smartfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr8-smartfarm-sbs13.webp)
+![smartfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-smartfarm-sbs13.webp)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our project to the computer to make it come to life with code!

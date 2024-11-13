@@ -6,25 +6,25 @@ soilMoisture=github:climate-action-kits/pxt-fwd-edu
 ```
 ## Step 1 @showdialog
 Welcome to the Smart Farming with Hydroponics & Grow Lights Coding Tutorial
-![built project](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/project-advagri-200.png)
+![built project](https://forward-education.github.io/fwd-tutorials/tutorial-assets/project-advagri-200.png)
 
 ## Step 2 @showdialog
 In this coding tutorial we will control LED color and timing, count the number of water cycles and the time between waterings.
 
 ## Step 3 @showdialog
 Turn on the Climate Action Kit board.
-![breakout board](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/breakout-turn-on.png)
+![breakout board](https://forward-education.github.io/fwd-tutorials/tutorial-assets/breakout-turn-on.png)
 
 ## Step 4 @showhint
 Click three dots besides ``|Download|`` button, and click on _Connect Device_. Next, follow the steps to pair your micro:bit.
-![pair gif](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/pairmicrobit-280x203.gif)
+![pair gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/pairmicrobit-280x203.gif)
 
 ## Step 5 @showhint
 Next, click the ``|Download|`` button to download the blank project to start-up the simulators.
 
 ## Step 6 @showhint
 Look below the @boardname@ simulator to see the Climate Action Board and the connected sensors. Try holding the Moisture Sensor or dipping it in a glass of water. See how the virtual simulators react.
-![moisture](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/simulator-4-moisture.gif)
+![moisture](https://forward-education.github.io/fwd-tutorials/tutorial-assets/simulator-4-moisture.gif)
 
 ## Step 7
 Click ``||logic: Logic||`` drag and drop ``||logic:If then Else||``
@@ -821,7 +821,7 @@ basic.showNumber(timer_stop-timer_start/60000)
 ## Step 38 @showhint
 ``|Download|`` and test your code. Click the bulb icon to see how
 the simulator shows the components working.
-![moisture-pump](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/simulator-11-Moisture-pump.gif)
+![moisture-pump](https://forward-education.github.io/fwd-tutorials/tutorial-assets/simulator-11-Moisture-pump.gif)
 
 ## Step 39 @showdialog
 Congratulations on completing your Smart Farming with Hydroponics & Grow Lights Project!

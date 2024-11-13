@@ -9,22 +9,22 @@ Welcome to the Monitoring Bees and pollination with a bug counter.
 For this project, we will use the Touch Sensor to detect when a 'bee' has landed on our project.  The LED light will turn on when a 'bee' visits the project.
 
 ## Building Step 1 @showdialog 
-![beelvl1sbs1](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr4-bees-lvl1-sbs1.png) 
+![beelvl1sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-lvl1-sbs1.png) 
 
 ## Building Step 2 @showdialog 
-![beelvl1sbs2](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr4-bees-lvl1-sbs2.png) 
+![beelvl1sbs2](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-lvl1-sbs2.png) 
 
 ## Building Step 3  @showdialog 
-![beeslvl1sbs3[]()](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr4-bees-lvl1-sbs3.png)
+![beeslvl1sbs3[]()](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-lvl1-sbs3.png)
 
 ## Building Step 4 @showdialog 
-![beeslvl1sbs4](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr4-bees-lvl1-sbs4.png)
+![beeslvl1sbs4](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-lvl1-sbs4.png)
 
 ## Building Step 5 @showdialog 
-![beeslvl1sbs5](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr4-bees-lvl1-sbs5.png)
+![beeslvl1sbs5](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-lvl1-sbs5.png)
 
 ## Building Step 6 @showdialog 
-![beeslvl1sbs6](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr4-bees-lvl1-sbs6.png) 
+![beeslvl1sbs6](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-lvl1-sbs6.png) 
 
 ## Activity 2: Coding Set up @showdialog
 IMPORTANT! Make sure your Climate Action Kit Breakout Board is turned on and your micro:bit is plugged into your computer. 
@@ -34,7 +34,7 @@ IMPORTANT! Make sure your Climate Action Kit Breakout Board is turned on and you
 ## Step 1 @showhint
 Click three dots beside ``|Download|`` button, and click on _Connect Device_.
 Next, follow the steps to pair your micro:bit.
-![pair gif](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/DownloadButtonGIF.webp)
+![pair gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/DownloadButtonGIF.webp)
 
 ## Step 2 @showhint
 Click three dots beside ``|Download|`` button, and click on _Connect Device_.
@@ -45,7 +45,7 @@ Next, click the ``|Download|`` button to download the blank project to start up 
 
 ## Step 4 @showdialog 
 This is how the simulators should look after a successful download. You can see the Dial, and the Servo Motors alongside the Pump.
-![download](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/initial-download.gif) 
+![download](https://forward-education.github.io/fwd-tutorials/tutorial-assets/initial-download.gif) 
 
 ## Step 5 @showhint
 Look below the @boardname @simulator to see the Climate Action kit Breakout Board and the connected sensors.

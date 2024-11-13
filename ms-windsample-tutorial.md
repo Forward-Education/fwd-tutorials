@@ -30,34 +30,34 @@ Let's build an automated wind turbine. We are going to do this in four parts:
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-render.webp" alt="Full sample wind tubine render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs01.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs01.webp)
 
 ## Build Step 2 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs02.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs02.webp)
 
 ## Build Step 3 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs03.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs03.webp)
 
 ## Build Step 4 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs04.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs04.webp)
 
 ## Build Step 5 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs05.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs05.webp)
 
 ## Build Step 6 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs06.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs06.webp)
 
 ## Build Step 7 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs07.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs07.webp)
 
 ## Build Step 8 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs08.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs08.webp)
 
 ## Build Step 9 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs09.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs09.webp)
 
 ## Build Step 10 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/add3c3f5d4b963f2cba276ba9760a9f8c463b77c/tutorial-assets/ms-windsample-sbs10.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-windsample-sbs10.webp)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our project to the computer to make it come to life with code!

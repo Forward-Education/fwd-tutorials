@@ -14,40 +14,40 @@ Let's build a solar panel prototype! We are going to do this in 4 parts:
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-render.webp" alt="Full solar panel render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs01.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs01.webp)
 
 ## Build Step 2 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs02.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs02.webp)
 
 ## Build Step 3 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs03.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs03.webp)
 
 ## Build Step 4 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs04.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs04.webp)
 
 ## Build Step 5 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs05.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs05.webp)
 
 ## Build Step 6 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs06.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs06.webp)
 
 ## Build Step 7 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs07.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs07.webp)
 
 ## Build Step 8 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs08.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs08.webp)
 
 ## Build Step 9 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs09.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs09.webp)
 
 ## Build Step 10 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs10.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs10.webp)
 
 ## Build Step 11 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs11.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs11.webp)
 
 ## Build Step 12 @showdialog
-![verticalfarmsbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solarpanel-sbs12.webp)
+![verticalfarmsbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/ms-solarpanel-sbs12.webp)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our project to the computer to make it come to life with code!

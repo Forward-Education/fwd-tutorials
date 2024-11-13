@@ -2,11 +2,11 @@
 
 ## Step 1 @showdialog
 Welcome to Solar Disinfection Coding Tutorial
-![built-project-image](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/sodis-prototype.png)
+![built-project-image](https://forward-education.github.io/fwd-tutorials/tutorial-assets/sodis-prototype.png)
 
 ## Step 2 @showdialog
 Plug your USB cable into the micro:bit. 
-![breakout board](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/connect-microbit.gif)
+![breakout board](https://forward-education.github.io/fwd-tutorials/tutorial-assets/connect-microbit.gif)
 
 ## Step 3
 Click ``||logic: Logic||`` drag and drop ``||logic:If then Else||``

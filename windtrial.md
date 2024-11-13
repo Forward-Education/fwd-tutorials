@@ -6,7 +6,7 @@ Dial=github:climate-action-kits/pxt-fwd-edu
 
 ## Step 1 @showdialog
 Welcome to Powering the Future with Wind Energy Coding Tutorial!
-![built project](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/project-windturbine-200.png)
+![built project](https://forward-education.github.io/fwd-tutorials/tutorial-assets/project-windturbine-200.png)
 
 ## Step 2 @showdialog
 In this tutorial we will code the Dial component to turn the wind turbine in the same direction as the Dial is being turned.
@@ -14,24 +14,24 @@ Use the Dial's button function to stop the wind turbine.
 
 ## Step 3 @showdialog
 Turn on the Climate Action Kit board.
-![breakout board](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/breakout-turn-on.png)
+![breakout board](https://forward-education.github.io/fwd-tutorials/tutorial-assets/breakout-turn-on.png)
 
 ## Step 4 @showhint
 Click three dots besides ``|Download|`` button, and click on _Connect Device_.
 Next, follow the steps to pair your micro:bit.
-![pair gif](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/pairmicrobit-280x203.gif)
+![pair gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/pairmicrobit-280x203.gif)
 
 ## Step 5 @showhint
 Next, click the ``|Download|`` button to download the blank project to start-up the simulators.
 
 ## Step 6 @showdialog
 This is how the simulators should look after a successful download. You can see the Dial, and the Servo Motors along side the Pump.
-![initial-dowload-gif](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/initial-download.gif)
+![initial-dowload-gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/initial-download.gif)
 
 ## Step 7 @showhint
 Look below the @boardname@ simulator to see the Climate Action kit Breakout Board and the connected sensors.
 Try turning the Dial on your project, the virtual  simulator will react to it.
-![wind](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/simulator-6-Dial.gif)
+![wind](https://forward-education.github.io/fwd-tutorials/tutorial-assets/simulator-6-Dial.gif)
 
 ## Step 8
 Click ``||fwdSensors:Sensors||`` drag and drop
@@ -55,11 +55,11 @@ Right click ``||fwdSensors:on dial1 turned difference||`` block and duplicate. _
 - We are creating another input block for the code
 - Anything placed inside will occur when the dial is turned
 hint~ 
-![greyed out example](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/dial-greyed-out-demo.png)
+![greyed out example](https://forward-education.github.io/fwd-tutorials/tutorial-assets/dial-greyed-out-demo.png)
 
 ## Step 10
 Change the direction arrow of the greyed out ``||fwdSensors:on dial1 turned difference||`` block. _Note: Greyed out block will turn green._
-![dial direction](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/dial-direction-switch.gif)
+![dial direction](https://forward-education.github.io/fwd-tutorials/tutorial-assets/dial-direction-switch.gif)
 
 ~hint What did that do?
 - We cannot have two different actions for the same direction
