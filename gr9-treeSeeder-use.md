@@ -33,7 +33,7 @@ Let's build an automated tree seeder. We are going to do this in four parts:
 3. **Use** the tree seeder to learn how it works
 4. Become a company owner and **complete a math challenge** 
 
-<img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeSeeder-thumbnail-render.webp" alt="Full tree seeder render" style="display: block; width: 60%; margin:auto;">
+<img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-thumbnail-render.webp" alt="Full tree seeder render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
 ![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs01.webp)
@@ -241,7 +241,7 @@ The micro:bit executes each block very quickly, so the contribution of each to r
 ## Solution 1 Continued
 In this program, we have 3 ``||basic:pause||`` blocks which add up to 1500 milliseconds (or 1.5 seconds!) per loop. We also know 1 seed is planted each loop. Ultimately, this means it takes 1.5 seconds to plant each seed:
 
-<img src="https://latex.codecogs.com/svg.image?\frac{1.5\;seconds}{1\;\cancel{loop}}\times\frac{1\;\cancel{loop}}{1\;seed}=\frac{1.5\;seconds}{seed}" style="width: 400px;">
+<img src="https://latex.codecogs.com/svg.image?\frac{1.5\;seconds}{1\;\cancel{loop}}\times\frac{1\;\cancel{loop}}{1\;seed}=\frac{1.5\;seconds}{seed}" alt="A math equation: 1.5 seconds divided by 1 loop multiplied by 1 loop divided by one seed equals 1.5 seconds per seed" style="width: 400px;">
 
 ```block
     for (let index = 0; index < 4; index++) {
@@ -262,7 +262,7 @@ In this program, we have 3 ``||basic:pause||`` blocks which add up to 1500 milli
 ## Solution 1 Continued
 Knowing this, we can calculate that 1000 seeds will take 1500 seconds (or 25 minutes!) to plant!
 
-<img src="https://latex.codecogs.com/svg.image?1000\;\cancel{seeds}\times\frac{1.5\;seconds}{1\;\cancel{seed}}=1500\;seconds" style="width: 450px;">
+<img src="https://latex.codecogs.com/svg.image?1000\;\cancel{seeds}\times\frac{1.5\;seconds}{1\;\cancel{seed}}=1500\;seconds" alt="A math equation: 1000 seeds multipled by 1.5 seconds divided by 1 seed equals 1500 seconds." style="width: 450px;">
 
 ## Solution 1 Continued
 Unfortunately, we have no way to estimate the distance traveled from the code alone.
