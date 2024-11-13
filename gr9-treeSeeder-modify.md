@@ -50,58 +50,58 @@ Let's build an automated tree seeder. We are going to do this in four parts:
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-thumbnail-render.webp" alt="Full tree seeder render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs01.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs01.webp)
 
 ## Build Step 2 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs02.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs02.webp)
 
 ## Build Step 3 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs03.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs03.webp)
 
 ## Build Step 4 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs04.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs04.webp)
 
 ## Build Step 5 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs05.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs05.webp)
 
 ## Build Step 6 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs06.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs06.webp)
 
 ## Build Step 7 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs07.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs07.webp)
 
 ## Build Step 8 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs08.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs08.webp)
 
 ## Build Step 9 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs09.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs09.webp)
 
 ## Build Step 10 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs10.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs10.webp)
 
 ## Build Step 11 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs11.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs11.webp)
 
 ## Build Step 12 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs12.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs12.webp)
 
 ## Build Step 13 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs13.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs13.webp)
 
 ## Build Step 14 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs14.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs14.webp)
 
 ## Build Step 15 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs15.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs15.webp)
 
 ## Build Step 16 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs16.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs16.webp)
 
 ## Build Step 17 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs17.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs17.webp)
 
 ## Build Step 18 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr9-treeseeder-sbs18.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr9-treeseeder-sbs18.webp)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our project to the computer to make it come to life with code!

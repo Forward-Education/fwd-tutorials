@@ -35,40 +35,40 @@ Let's build our coral reef model! We are going to do this in three parts:
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-render.webp" alt="Full coral reef model render" style="display: block; width: 70%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs01.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs01.webp)
 
 ## Build Step 2 @showdialog
-![sbs2](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs02.webp)
+![sbs2](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs02.webp)
 
 ## Build Step 3 @showdialog
-![sbs3](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs03.webp)
+![sbs3](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs03.webp)
 
 ## Build Step 4 @showdialog
-![sbs4](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs04.webp)
+![sbs4](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs04.webp)
 
 ## Build Step 5 @showdialog
-![sbs5](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs05.webp)
+![sbs5](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs05.webp)
 
 ## Build Step 6 @showdialog
-![sbs6](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs06.webp)
+![sbs6](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs06.webp)
 
 ## Build Step 7 @showdialog
-![sbs7](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs07.webp)
+![sbs7](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs07.webp)
 
 ## Build Step 8 @showdialog
-![sbs8](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs08.webp)
+![sbs8](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs08.webp)
 
 ## Build Step 9 @showdialog
-![sbs9](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs09.webp)
+![sbs9](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs09.webp)
 
 ## Build Step 10 @showdialog
-![sbs10](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs10.webp)
+![sbs10](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs10.webp)
 
 ## Build Step 11 @showdialog
-![sbs11](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs11.webp)
+![sbs11](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs11.webp)
 
 ## Build Step 12 @showdialog
-![sbs12](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/es-coralreef-sbs12.webp)
+![sbs12](https://forward-education.github.io/fwd-tutorials/tutorial-assets/es-coralreef-sbs12.webp)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our model to the computer to make it come to life with code!

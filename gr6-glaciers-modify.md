@@ -29,37 +29,37 @@ Before you begin, make sure you have some white and black paper. You'll also nee
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-thumbnail-render.webp" alt="Full glacier render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs1.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs1.webp)
 
 ## Build Step 2 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs2.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs2.webp)
 
 ## Build Step 3 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs3.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs3.webp)
 
 ## Build Step 4 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs4.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs4.webp)
 
 ## Build Step 5 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs5.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs5.webp)
 
 ## Build Step 6 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs6.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs6.webp)
 
 ## Build Step 7 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs7.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs7.webp)
 
 ## Build Step 8 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs8.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs8.webp)
 
 ## Build Step 9 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs9.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs9.webp)
 
 ## Build Step 10 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs10.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs10.webp)
 
 ## Build Step 11 @showdialog
-![sbs1](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr6-glacier-sbs11.webp)
+![sbs1](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr6-glacier-sbs11.webp)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our project to the computer to make it come to life with code!

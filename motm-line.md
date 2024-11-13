@@ -5,19 +5,19 @@ solar=github:climate-action-kits/pxt-fwd-edu
 ```
 ## Step 1 @showdialog
 Welcome to Mission on the Moon - Line Following
-![built project](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/project-electriccar-400.png)
+![built project](https://forward-education.github.io/fwd-tutorials/tutorial-assets/project-electriccar-400.png)
 
 ## Step 2 @showdialog
 Plug your USB cable into the micro:bit. 
-![breakout board](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/connect-microbit.gif)
+![breakout board](https://forward-education.github.io/fwd-tutorials/tutorial-assets/connect-microbit.gif)
 
 ## Step 3 @showdialog
 Insert it into the Climate Action Kit board. 
-![breakout board](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/breakout-resized.png)
+![breakout board](https://forward-education.github.io/fwd-tutorials/tutorial-assets/breakout-resized.png)
 
 ## Step 4 @showhint
 Click three dots besides ``|Download|`` button and follow the steps to pair your micro:bit.
-![pair gif](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/pairmicrobit-280x203.gif)
+![pair gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/pairmicrobit-280x203.gif)
 
 ## Step 5 @showhint
 Look below the @boardname@ simulator to see the Climate Action Board and the connected sensors. Try to interact with your sensor and the simulator will react to it.

@@ -13,37 +13,37 @@ Let's build a moving wind turbine! We are going to do this in 3 parts:
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr5-wind-lvl1-render.webp" alt="Full wind turbine render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog 
-![Attach the breakout board to the middle of a long frame building block.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs1.png)
+![Attach the breakout board to the middle of a long frame building block.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs1.png)
 
 ## Build Step 2 @showdialog 
-![Add two cube connectors to either end of the long frame. Set this piece aside.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs2.png) 
+![Add two cube connectors to either end of the long frame. Set this piece aside.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs2.png) 
 
 ## Build Step 3 @showdialog 
-![Grab a second long frame. Put the continuous servo motor through the frame's servo hole.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs3.png). 
+![Grab a second long frame. Put the continuous servo motor through the frame's servo hole.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs3.png). 
 
 ## Build Step 4 @showdialog 
-![Make sure the cord of the servo is closest to the long end of the frame.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs4.png) 
+![Make sure the cord of the servo is closest to the long end of the frame.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs4.png) 
 
 ## Build Step 5 @showdialog 
-![Connect a circle block to the continuous servo motor.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs5.png) 
+![Connect a circle block to the continuous servo motor.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs5.png) 
 
 ## Build Step 6 @showdialog 
-![Take the long frame with the breakout board and snap it onto the center of the base plate. Then, turn the second long frame, turn it, and attach it to the right cube connector, so it looks like a wind turbine. All pieces should be attached now.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs6.png)
+![Take the long frame with the breakout board and snap it onto the center of the base plate. Then, turn the second long frame, turn it, and attach it to the right cube connector, so it looks like a wind turbine. All pieces should be attached now.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs6.png)
 
 ## Build Step 7 @showdialog 
-![Plug the servo motor into the left servo port on the breakout board.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs7.png)
+![Plug the servo motor into the left servo port on the breakout board.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs7.png)
 
 ## Build Step 8 @showdialog 
-![Grab the dial and a short cable. Connect them.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs8.png)
+![Grab the dial and a short cable. Connect them.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs8.png)
 
 ## Build Step 9 @showdialog 
-![Snap the dial onto the left corner of the base plate. Connect its cable to one of the sensor ports on the breakout board.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs9.png)
+![Snap the dial onto the left corner of the base plate. Connect its cable to one of the sensor ports on the breakout board.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs9.png)
 
 ## Build Step 10 @showdialog 
-![Connect the micro:bit to your computer using the provided USB cord.](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs10.png)
+![Connect the micro:bit to your computer using the provided USB cord.](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs10.png)
 
 ## Build Step 11 @showdialog 
-![Your build is complete!](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs11.png)
+![Your build is complete!](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs11.png)
 
 ## Activity 2: Code Your Project @showdialog 
 We need to connect our project to the computer to make it come to life with code! 

@@ -10,52 +10,52 @@ Let's build a bee counter! We are going to do this in three parts:
 2. **Add code** to bring it to life.
 3. **Use** the bee counter to learn how it works.
 
-![projectrender](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/gr4-bees-projectrender.webp) 
+![projectrender](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr4-bees-projectrender.webp) 
 
 ## Build Step 1 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bee-sbs1.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bee-sbs1.png)
 
 ## Build Step 2 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs2.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs2.png)
 
 ## Build Step 3 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs3.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs3.png)
 
 ## Build Step 4 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs4.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs4.png)
 
 ## Build Step 5 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs5.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs5.png)
 
 ## Build Step 6 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs6.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs6.png)
 
 ## Build Step 7 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs7.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs7.png)
 
 ## Build Step 8 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs8.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs8.png)
 
 ## Build Step 9 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs9.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs9.png)
 
 ## Build Step 10 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs10.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs10.png)
 
 ## Build Step 11 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs11.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs11.png)
 
 ## Build Step 12 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs12.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs12.png)
 
 ## Build Step 13 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs13.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs13.png)
 
 ## Build Step 14 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs14.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs14.png)
 
 ## Build Step 15 @showdialog
-![beesbs](https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Gr4-bees-sbs15.png)
+![beesbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/Gr4-bees-sbs15.png)
 
 ## Activity 2: Code Your Project @showdialog  
 We need to connect our project to the computer to make it come to life with code! 
@@ -69,7 +69,7 @@ Make sure your Climate Action Kit Breakout Board is turned on and your micro:bit
 
 ## Code Step 2 @showdialog
 Click the three dots beside the ``|Download|`` button, then click on _Connect Device_. Next, follow the steps to pair your micro:bit.
-![pair gif](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/DownloadButtonGIF.webp)
+![pair gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/DownloadButtonGIF.webp)
 
 ## Code Step 3 
 Next, click the ``|Download|`` button to download the code to your project.

@@ -14,58 +14,58 @@ Let's build a wildfire detection vehicle! We are going to do this in 4 parts:
 <img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/Project%20Render%20Forest%20Fires%20three%20quarter%20build.png" alt="Full wildfire render" style="display: block; width: 60%; margin:auto;">
 
 ## Build Step 1 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs1.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs1.png)
 
 ## Build Step 2 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs2.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs2.png)
 
 ## Build Step 3 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs3.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs3.png)
 
 ## Build Step 4 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs4.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs4.png)
 
 ## Build Step 5 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs5.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs5.png)
 
 ## Build Step 6 @showdialog
-![wildfiresb](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs6.png?raw=true)  
+![wildfiresb](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs6.png)  
 
 ## Build Step 7 @showdialog
-![wildfiresb](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs7.png?raw=true)
+![wildfiresb](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs7.png)
 
 ## Build Step 8 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs8.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs8.png)
 
 ## Build Step 9 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs9.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs9.png)
 
 ## Build Step 10 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs10.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs10.png)
 
 ## Build Step 11 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs11.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs11.png)
 
 ## Build Step 12 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs12.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs12.png)
 
 ## Build Step 13 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs13.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs13.png)
 
 ## Build Step 14 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs14.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs14.png)
 
 ## Build Step 15 & 16  @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs15.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs15.png)
 
 ## Build Step 17 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs17.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs17.png)
 
 ## Build Step 18 @showdialog
-![wildfiresb](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs18.png?raw=true)
+![wildfiresb](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs18.png)
 
 ## Build Step 19 @showdialog
-![wildfiresbs](https://github.com/climate-action-kits/pxt-fwd-edu/blob/main/tutorial-assets/gr8-wildfires-sbs19.png?raw=true)
+![wildfiresbs](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr8-wildfires-sbs19.png)
 
 ## Activity 2: Code Your Project @showdialog
 We need to connect our project to the computer to make it come to life with code!

@@ -12,37 +12,37 @@ Code our project to make it interactive
 
 ## Build Step 1 @showdialog 
 
-![wind](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs1.png)
+![wind](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs1.png)
 
 ## Build Step 2 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs2.png) 
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs2.png) 
 
 ## Build Step 3 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs3.png). 
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs3.png). 
 
 ## Build Step 4 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs4.png) 
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs4.png) 
 
 ## Build Step 5 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs5.png) 
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs5.png) 
 
 ## Build Step 6 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs6.png)
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs6.png)
 
 ## Build Step 7 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs7.png)
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs7.png)
 
 ## Build Step 8 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs8.png)
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs8.png)
 
 ## Build Step 9 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs9.png)
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs9.png)
 
 ## Build Step 10 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs10.png)
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs10.png)
 
 ## Build Step 11 @showdialog 
-![stepbystep](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/gr3-wind1-lvl2-sbs11.png)
+![stepbystep](https://forward-education.github.io/fwd-tutorials/tutorial-assets/gr3-wind1-lvl2-sbs11.png)
 
 ## Activity 2: Coding set up @showdialog  
 Step 1
@@ -67,12 +67,12 @@ Next, click the ``|Download|`` button to download the blank project to start-up 
 
 ## Step 4 @showdialog 
 This is how the simulators should look after a successful download. You can see the Dial, and the Servo Motors along side the Pump.
-![initial-dowload-gif](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/initial-download.gif)
+![initial-dowload-gif](https://forward-education.github.io/fwd-tutorials/tutorial-assets/initial-download.gif)
 
 ## Step 5 @showhint
 Look below the @boardname @simulator to see the Climate Action kit Breakout Board and the connected sensors.
 Try turning the Dial on your project, the virtual  simulator will react to it.
-![wind](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/simulator-6-Dial.gif)
+![wind](https://forward-education.github.io/fwd-tutorials/tutorial-assets/simulator-6-Dial.gif)
 
 ## Step 6 @showhint
 Try clicking the on/off button on the virtual simulator for the first Servo Motor (labelled Left). What happens? Can you use the slider to change the speed? 
@@ -185,7 +185,7 @@ fwdSensors.dial1.fwdOnDialTurned(fwdSensors.DialDirection.CW, function (differen
 ```
 ## Coding Step 9 
 Click the ``|Download|`` button to download the code for your project. 
-![download](https://raw.githubusercontent.com/Jessica-forwardedu/pxt-fwd-edu/main/tutorial-assets/DownloadButtonGIF.webp)
+![download](https://forward-education.github.io/fwd-tutorials/tutorial-assets/DownloadButtonGIF.webp)
 
 ## Coding Step 10  @showdialog 
 Congratulations on finishing your coding prototype! Try testing our project in real life! This is what your finished prototype should look like! 
