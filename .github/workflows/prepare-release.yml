@@ -37,7 +37,7 @@ jobs:
         run: |
           SYNC_FILES=`find . -name '*.md' | sort | sed -e 's_^./\(.*\)_"\1"_' | paste -sd ',' -`
           UPDATED_JSON=`jq ".files |= [$SYNC_FILES]" pxt.json`
-          echo $UPDATED_JSON > pxt.json
+          echo $UPDATED_JSON | jq '.' > pxt.json
 
       - name: Bump version
         id: pxtjson_bump
@@ -48,7 +48,7 @@ jobs:
           VER_STRING=\"`echo ${SEM_VER[@]} | sed 's/ /./g'`\"
           UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
           echo "ver_string=v${VER_STRING//\"}" >> "$GITHUB_OUTPUT"
-          echo $UPDATED_JSON > pxt.json
+          echo $UPDATED_JSON | jq '.' > pxt.json
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
