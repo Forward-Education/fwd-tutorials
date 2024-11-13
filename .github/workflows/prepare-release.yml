@@ -45,11 +45,7 @@ jobs:
           DIFF_RESULT: ${{ steps.md_diff.outputs.diff_result }}
         run: |
           SEM_VER=(`jq -r '.version' pxt.json | sed 's/\./ /g'`)
-          if [[ $DIFF_RESULT == 1 ]] then
-            (( SEM_VER[1]+=1 ))
-            SEM_VER[2]=0;
-          else (( SEM_VER[2]+=1 ))
-          fi
+          if [[ $DIFF_RESULT == 1 ]]; then (( SEM_VER[1]+=1 )); SEM_VER[2]=0; else (( SEM_VER[2]+=1 )); fi
           VER_STRING=\"`echo ${SEM_VER[@]} | sed 's/ /./g'`\"
           UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
           echo "ver_string=v${VER_STRING//\"}" >> "$GITHUB_OUTPUT"
