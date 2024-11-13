@@ -2,11 +2,11 @@
 name: "Create Release"
 
 on:
-  # pull_request:
-  #   types:
-  #     - closed
-  #   branches:
-  #     - main
+  pull_request:
+    types:
+      - closed
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -14,17 +14,20 @@ jobs:
     name: "Update the pxt.json file list"
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
 
       - name: Diff file list
         id: md_diff
         run: >
-          diff_result="$( diff -q
+          DIFF_RESULT="$( diff -q
           <(jq -r '.files[] | select(. | match(".md"))' pxt.json | sort)
           <(find .  -name '*.md' | sed 's_^./__' | sort)
           | wc -l )";
-          echo "diff_result=$diff_result" >> "$GITHUB_OUTPUT";
+          echo "diff_result=$DIFF_RESULT" >> "$GITHUB_OUTPUT";
 
       - name: Update pxt.json file list
         id: pxtjson_patch
@@ -38,10 +41,21 @@ jobs:
         id: pxtjson_bump
         run: |
           SEM_VER=(`jq -r '.version' pxt.json | sed 's/\./ /g'`)
-          BUMP_INDEX=$(( ${{ steps.md_diff.outputs.diff_files }} + 1 ))
+          BUMP_INDEX=$(( 2 - ${{ steps.md_diff.outputs.diff_result }} ))
           SEM_VER[$BUMP_INDEX]=$(( SEM_VER[$BUMP_INDEX] + 1 ))
           VER_STRING=\"`echo ${SEM_VER[@]} | sed 's/ /./g'`\"
           UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
+          echo "ver_string=v${VER_STRING//\"}" >> "$GITHUB_OUTPUT"
           echo $UPDATED_JSON > pxt.json
 
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
 
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.pxtjson_bump.outputs.ver_string }}
+        run: |
+          gh release create "$tag" \
+              --repo="$GITHUB_REPOSITORY" \
+              --title="${tag}"
