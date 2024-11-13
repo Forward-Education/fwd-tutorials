@@ -45,20 +45,17 @@ jobs:
           SEM_VER[$BUMP_INDEX]=$(( SEM_VER[$BUMP_INDEX] + 1 ))
           VER_STRING=\"`echo ${SEM_VER[@]} | sed 's/ /./g'`\"
           UPDATED_JSON=`jq ".version |= $VER_STRING" pxt.json`
-          echo "ver_string=$VER_STRING" >> "$GITHUB_OUTPUT"
+          echo "ver_string=v${VER_STRING//\"}" >> "$GITHUB_OUTPUT"
           echo $UPDATED_JSON > pxt.json
 
-      - name: Commit changes and tag
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          tagging_message: "v${{ steps.pxtjson_bump.outputs.ver_string}}"
 
       - name: Create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          tag: ${{ github.ref_name }}
+          tag: ${{ steps.pxtjson_bump.outputs.ver_string }}
         run: |
           gh release create "$tag" \
               --repo="$GITHUB_REPOSITORY" \
-              --title="${GITHUB_REPOSITORY#*/} ${tag#v}" \
-              --generate-notes
+              --title="${tag}"
