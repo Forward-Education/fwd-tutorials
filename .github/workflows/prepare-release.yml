@@ -51,8 +51,11 @@ jobs:
           echo "ver_string=v${VER_STRING//\"}" >> "$GITHUB_OUTPUT"
           echo $UPDATED_JSON | jq '.' > pxt.json
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Ammend commit
+        run: |
+          git pull
+          git commit --amend --no-edit
+          git push origin -f
 
       - name: Create release
         env:
