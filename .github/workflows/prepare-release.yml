@@ -2,7 +2,7 @@
 name: "Create Release"
 
 on:
-  pull_request:
+  pull_request_target:
     types:
       - closed
     branches:
@@ -22,7 +22,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          fetch-depth: 2
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+
 
       - name: Diff file list
         id: md_diff
@@ -53,20 +54,10 @@ jobs:
           echo "ver_string=v${VER_STRING//\"}" >> "$GITHUB_OUTPUT"
           echo $UPDATED_JSON | jq '.' > pxt.json
 
-      - name: Get last commit message
-      # copied from stefanweifel/git-auto-commit-action README
-        id: last-commit
-        run: |
-          echo "message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
-          echo "author=$(git log -1 --pretty=\"%an <%ae>\")" >> $GITHUB_OUTPUT
-
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_author: ${{ steps.last-commit.outputs.author }}
-          commit_message: ${{ steps.last-commit.outputs.message }}
-          commit_options: '--amend --no-edit'
-          push_options: '--force'
-          skip_fetch: true
+          commit_message: ${{ steps.pxtjson_bump.outputs.ver_string }}
+          tagging_message: ${{ steps.pxtjson_bump.outputs.ver_string }}
 
       - name: Create release
         env:
