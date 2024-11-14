@@ -34,7 +34,7 @@ jobs:
 
       - name: Update pxt.json file list
         id: pxtjson_patch
-        if: ${{ steps.md_diff.outputs.diff_files == 1 }}
+        if: ${{ steps.md_diff.outputs.diff_result == 1 }}
         run: |
           SYNC_FILES=`find . -name '*.md' | sort | sed -e 's_^./\(.*\)_"\1"_' | paste -sd ',' -`
           UPDATED_JSON=`jq ".files |= [$SYNC_FILES]" pxt.json`
