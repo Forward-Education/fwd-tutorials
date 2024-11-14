@@ -1,6 +1,6 @@
 {
   "name": "fwd-tutorials",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Forward Education MakeCode Tutorials",
   "license": "MIT",
   "dependencies": {
