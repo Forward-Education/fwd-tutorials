@@ -2,11 +2,11 @@
 name: "Create Release"
 
 on:
+  push:
+    branches: [main]
   pull_request_target:
-    types:
-      - closed
-    branches:
-      - main
+    types: [closed]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
