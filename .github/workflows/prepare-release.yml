@@ -1,5 +1,5 @@
 ---
-name: "Create Release"
+name: "Bump pxt.json and create Release"
 
 on:
   push:
